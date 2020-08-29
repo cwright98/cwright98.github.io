@@ -1,6 +1,10 @@
 .title{
     font-size: 200%;
 }
+.h1{
+    font-size: large;
+    color: aqua;
+}
 .navbar {
     overflow: hidden;
     background-color: #333;
