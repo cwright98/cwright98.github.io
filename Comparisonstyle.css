@@ -1,3 +1,6 @@
+.title{
+    font-size: 200%;
+}
 .navbar {
     overflow: hidden;
     background-color: #333;
@@ -67,6 +70,3 @@
     display: block;
   }
 
-title{
-    font-size: 200%;
-}
