@@ -6,6 +6,9 @@ h1 {
     color: #333;
     text-align: center;
   }
+body{
+    font-size: 50 px;
+}
 .navbar {
     overflow: hidden;
     background-color: #333;
